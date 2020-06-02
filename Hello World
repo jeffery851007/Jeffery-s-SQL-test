@@ -1,0 +1,13 @@
+Hello SQL!
+
+Question:
+
+Return a table with a single column named Greeting with the phrase 'hello world!'
+
+Please use Data Manipulation Language and not Data Definition Language to solve this Kata
+
+Answer:
+
+Select 'hello world!' as "Greeting";
+
+此處需注意"Greeting"要用雙引號。
